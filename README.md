@@ -1,6 +1,7 @@
-Since Dataset was imbalanced, confusion matrix wasn't good
-but still model was shown to be least confused
-but model was really underconfident, after all what do you expect of a difference of 100 and 2000 images in two different categories
+NOTE : I didn't train the model to the full potential just to demonstrate the Quality of the Architecture after so many Retries.
+
+It is a total 7 Layers Neural Network which works on the principal of parallel feature extraction and 1x1 convolution bottlenecks which improve efficiency by a large amount.
+
 
 Model Used : GoogleNet Inception (miniaturized by me)
 

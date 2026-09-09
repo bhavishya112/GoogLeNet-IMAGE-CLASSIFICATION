@@ -1,9 +1,12 @@
 NOTE : I didn't train the model to the full potential just to demonstrate the Quality of the Architecture after so many Retries.
 
-It is a total 7 Layers Neural Network which works on the principal of parallel feature extraction and 1x1 convolution bottlenecks which improve efficiency by a large amount.
+It is a total 10 Layers {8(7conv+1dense)+2  input/output} Neural Network which works on the principal of parallel feature extraction and 1x1 convolution bottlenecks which improve efficiency by a large amount.
 
 
 Model Used : GoogleNet Inception (miniaturized by me)
+
+## Architecture
+<a href = "Architecture.excalidraw.png"><img src = "Architecture.excalidraw.png" width = 500></img></a>
 
 ## RESULTS : 
 
